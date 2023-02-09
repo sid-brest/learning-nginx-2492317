@@ -1,6 +1,6 @@
 # 00_04 Set up a Lab Server
 
-To get the most out of this course, you’ll need access to a server where you can experiment with NGINX
+To get the most out of this course, you’ll need access to a server where you can experiment with NGINX.
 
 ## _*Don't use a production server*_
 
